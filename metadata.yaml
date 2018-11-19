@@ -1,11 +1,16 @@
 _repo: The-Characters-of-Theophrastus-A-Translation-with-Introduction_58242
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58242-h/images/cover.jpg
 creator:
   author:
     agent_name: Theophrastus
     gutenberg_agent_id: '49854'
     url: http://www.gutenberg.org/2009/agents/49854
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58242#The-Characters-of-Theophrastus-A-Translation-with-Introduction
 gutenberg_issued: '2018-11-06'
 gutenberg_type: Text
 identifiers:
